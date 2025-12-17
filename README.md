@@ -52,7 +52,8 @@ These are divided into summary, overview and detailed visualization.
  
 
 DASHBOARD 1: SUMMARY
-![SSummary](https://github.com/user-attachments/assets/5602578e-3b27-4d9c-bad5-4f98a85c088d)
+<img width="3194" height="1778" alt="summarynew" src="https://github.com/user-attachments/assets/c0d6483d-9013-450a-82cc-63d71db67654" />
+
 
 
 
